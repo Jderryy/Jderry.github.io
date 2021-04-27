@@ -1,2 +1,2 @@
-# Jderry.github.io
+# jderry.github.io
 Pagina mea persoanla
